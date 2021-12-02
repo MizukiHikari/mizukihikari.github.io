@@ -28,7 +28,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://mizukihikari.github.io'
 
 github:
   username: MizukiHikari             # change to your github username
@@ -46,8 +46,8 @@ social:
     - https://twitter.com/Bgs_Mizu     # change to your twitter homepage
     - https://github.com/MizukiHikari       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/mizuki.hujiko
+    - https://www.linkedin.com/in/bagus-triandika-13a780188
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
